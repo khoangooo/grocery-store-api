@@ -1,0 +1,18 @@
+[
+	{
+  "username": "admin",
+  "password": "$2b$10$uTPONCVgEIQAhmqA7N8ys.WmljbFPdU84gO2AOGHn/KtatdCklfJu",
+  "phone": "",
+  "email": "tmdtdemo45@gmail.com",
+  "image": "avatar/0c6795ae76b957dcbbcee337c93fcf54.jpg",
+  "role": "admin"
+},
+{
+  "username": "khoa",
+  "password": "$2b$10$MFiOYeQ/hsvLtARJk46RNO0o6AWbb4olUlK7OcD3fZA1RyKhbingy",
+  "phone": "",
+  "email": "tmdtdemo45@gmail.com",
+  "image": "avatar/c11a0a8cdf4f9295737589444f6349d7.jpg",
+  "role": "customer"
+}
+]

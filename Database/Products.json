@@ -1,0 +1,442 @@
+[
+  {
+    "uid": 1,
+    "name": "Bell Pepper",
+    "image": "images/bell-pepper.jpg",
+    "price": 110,
+    "discount": 0,
+    "star": 5,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 2,
+    "name": "Broccoli",
+    "image": "images/broccoli.jpg",
+    "price": 130,
+    "discount": 0,
+    "star": 5,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 3,
+    "name": "Purple Cabbage",
+    "image": "images/purple_cabbage.jpg",
+    "price": 150,
+    "discount": 0.3,
+    "star": 3,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 4,
+    "name": "Carrot",
+    "image": "images/carrot.jpg",
+    "price": 100,
+    "discount": 0.25,
+    "star": 3,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 5,
+    "name": "Tomato",
+    "image": "images/tomato.jpg",
+    "price": 90,
+    "discount": 0,
+    "star": 5,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 6,
+    "name": "Onion",
+    "image": "images/onion.jpg",
+    "price": 80,
+    "discount": 0.2,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 7,
+    "name": "Garlic",
+    "image": "images/garlic.jpg",
+    "price": 85,
+    "discount": 0,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 8,
+    "name": "Chili Pepper",
+    "image": "images/chili-pepper.jpg",
+    "price": 75,
+    "discount": 0,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 9,
+    "name": "Strawberry",
+    "image": "images/strawberry.jpg",
+    "price": 160,
+    "discount": 0,
+    "star": 5,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 10,
+    "name": "Apple",
+    "image": "images/apple.jpg",
+    "price": 150,
+    "discount": 0,
+    "star": 5,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 11,
+    "name": "Grape",
+    "image": "images/grape.jpg",
+    "price": 180,
+    "discount": 0.2,
+    "star": 3,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 12,
+    "name": "Kiwi",
+    "image": "images/kiwi.jpg",
+    "price": 160,
+    "discount": 0.3,
+    "star": 3,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 13,
+    "name": "Orange",
+    "image": "images/orange.jpg",
+    "price": 125,
+    "discount": 0,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 14,
+    "name": "Peach",
+    "image": "images/peach.jpg",
+    "price": 180,
+    "discount": 0.25,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 15,
+    "name": "Banana",
+    "image": "images/banana.jpg",
+    "price": 145,
+    "discount": 0,
+    "star": 5,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 16,
+    "name": "Almond Seed",
+    "image": "images/almond-seed.jpg",
+    "price": 170,
+    "discount": 0,
+    "star": 5,
+    "kind": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 17,
+    "name": "Cashew Nut",
+    "image": "images/cashew-nut.jpg",
+    "price": 180,
+    "discount": 0,
+    "star": 5,
+    "kind": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 18,
+    "name": "Dried Banana",
+    "image": "images/dried-banana.jpg",
+    "price": 200,
+    "discount": 0.1,
+    "star": 3,
+    "kind": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 19,
+    "name": "Dried Peach",
+    "image": "images/dried-peach.png",
+    "price": 300,
+    "discount": 0.2,
+    "star": 3,
+    "kind": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 20,
+    "name": "Dried Kiwi",
+    "image": "images/dried-kiwi.jpg",
+    "price": 260,
+    "discount": 0,
+    "star": 4,
+    "kind": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 21,
+    "name": "Walnut",
+    "image": "images/walnut.jpg",
+    "price": 270,
+    "discount": 0,
+    "star": 4,
+    "kind": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 22,
+    "name": "Big Red Beans",
+    "image": "images/big-red-beans.jpg",
+    "price": 210,
+    "discount": 0,
+    "star": 4,
+    "kind": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 23,
+    "name": "Black Beans",
+    "image": "images/black-beans.jpg",
+    "price": 195,
+    "discount": 0,
+    "star": 4,
+    "kind": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 24,
+    "name": "Chiness Cabbage",
+    "image": "images/chinese-cabbage.jpg",
+    "price": 218,
+    "discount": 0,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 25,
+    "name": "Cucumber",
+    "image": "images/cucumber.jpg",
+    "price": 127,
+    "discount": 0.12,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 26,
+    "name": "Ginger",
+    "image": "images/ginger.jpg",
+    "price": 156,
+    "discount": 0.2,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 27,
+    "name": "Green Chili Pepper",
+    "image": "images/green-chili-pepper.jpg",
+    "price": 189,
+    "discount": 0.15,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 28,
+    "name": "Lettuce",
+    "image": "images/lettuce.jpg",
+    "price": 173,
+    "discount": 0,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 29,
+    "name": "Pak Choi",
+    "image": "images/pak-choi.jpg",
+    "price": 142,
+    "discount": 0.1,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+      {
+    "uid": 30,
+    "name": "Cherry Tomato",
+    "image": "images/cherry-tomato.jpg",
+    "price": 228,
+    "discount": 0.1,
+    "star": 3,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 31,
+    "name": "Pea",
+    "image": "images/pea.jpg",
+    "price": 153,
+    "discount": 0.12,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 32,
+    "name": "Radish",
+    "image": "images/radish.jpg",
+    "price": 169,
+    "discount": 0,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 33,
+    "name": "Sweet Potato",
+    "image": "images/sweet-potato.jpg",
+    "price": 186,
+    "discount": 0.17,
+    "star": 4,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 34,
+    "name": "Blackberry",
+    "image": "images/blackberry.jpg",
+    "price": 245,
+    "discount": 0,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 35,
+    "name": "Blueberry",
+    "image": "images/blueberry.jpg",
+    "price": 211,
+    "discount": 0,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 36,
+    "name": "Currant",
+    "image": "images/currant.jpg",
+    "price": 236,
+    "discount": 0.2,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 37,
+    "name": "Raspberry",
+    "image": "images/raspberry.jpg",
+    "price": 202,
+    "discount": 0,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 38,
+    "name": "Watermelon",
+    "image": "images/watermelon.jpg",
+    "price": 188,
+    "discount": 0.16,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 39,
+    "name": "Apricot",
+    "image": "images/apricot.jpg",
+    "price": 193,
+    "discount": 0,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 40,
+    "name": "Cherry",
+    "image": "images/cherry.jpg",
+    "price": 177,
+    "discount": 0.12,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 41,
+    "name": "Lime",
+    "image": "images/lime.jpg",
+    "price": 117,
+    "discount": 0,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 42,
+    "name": "Pear",
+    "image": "images/pear.jpg",
+    "price": 193,
+    "discount": 0.2,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+  {
+    "uid": 43,
+    "name": "Pineapple",
+    "image": "images/pineapple.jpg",
+    "price": 131,
+    "discount": 0,
+    "star": 4,
+    "kind": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  },
+    {
+    "uid": 44,
+    "name": "Cauliflower",
+    "image": "images/cauliflower.jpg",
+    "price": 139,
+    "discount": 0,
+    "star": 5,
+    "kind": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et varius dui, non congue ante. Nullam bibendum consectetur neque a consectetur. Ut risus magna, congue quis dolor sed, placerat varius elit. Mauris ac metus malesuada, eleifend tortor quis, gravuida mi. Fusce et dignissim magna, a tincuidunt mauris. Nunc a sem vel est pellentesque accumsan maximus vitae est. Aenean uid finibus lectus. Integer tincuidunt massa sed mattis dignissim. Nulla tristique, odio et consectetur porttitor, felis eros fringilla ligula, ut facilisis augue eros a nisl."
+  }
+]

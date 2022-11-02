@@ -1,0 +1,14 @@
+[
+    {
+        "kind": 1,
+        "name": "Vegetables"
+    },
+    {
+        "kind": 2,
+        "name": "Fruits"
+    },
+    {
+        "kind": 3,
+        "name": "Dried Products"
+    }
+]
