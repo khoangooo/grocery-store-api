@@ -2,7 +2,7 @@
   {
     "uid": 1,
     "name": "Bell Pepper",
-    "image": "images/bell-pepper.jpg",
+    "image": "images/bell_pepper.jpg",
     "price": 110,
     "discount": 0,
     "star": 5,
@@ -72,7 +72,7 @@
   {
     "uid": 8,
     "name": "Chili Pepper",
-    "image": "images/chili-pepper.jpg",
+    "image": "images/chili_pepper.jpg",
     "price": 75,
     "discount": 0,
     "star": 4,
@@ -152,7 +152,7 @@
   {
     "uid": 16,
     "name": "Almond Seed",
-    "image": "images/almond-seed.jpg",
+    "image": "images/almond_seed.jpg",
     "price": 170,
     "discount": 0,
     "star": 5,
@@ -162,7 +162,7 @@
   {
     "uid": 17,
     "name": "Cashew Nut",
-    "image": "images/cashew-nut.jpg",
+    "image": "images/cashew_nut.jpg",
     "price": 180,
     "discount": 0,
     "star": 5,
@@ -172,7 +172,7 @@
   {
     "uid": 18,
     "name": "Dried Banana",
-    "image": "images/dried-banana.jpg",
+    "image": "images/dried_banana.jpg",
     "price": 200,
     "discount": 0.1,
     "star": 3,
@@ -182,7 +182,7 @@
   {
     "uid": 19,
     "name": "Dried Peach",
-    "image": "images/dried-peach.png",
+    "image": "images/dried_peach.png",
     "price": 300,
     "discount": 0.2,
     "star": 3,
@@ -192,7 +192,7 @@
   {
     "uid": 20,
     "name": "Dried Kiwi",
-    "image": "images/dried-kiwi.jpg",
+    "image": "images/dried_kiwi.jpg",
     "price": 260,
     "discount": 0,
     "star": 4,
@@ -212,7 +212,7 @@
   {
     "uid": 22,
     "name": "Big Red Beans",
-    "image": "images/big-red-beans.jpg",
+    "image": "images/big_red_beans.jpg",
     "price": 210,
     "discount": 0,
     "star": 4,
@@ -222,7 +222,7 @@
   {
     "uid": 23,
     "name": "Black Beans",
-    "image": "images/black-beans.jpg",
+    "image": "images/black_beans.jpg",
     "price": 195,
     "discount": 0,
     "star": 4,
@@ -232,7 +232,7 @@
   {
     "uid": 24,
     "name": "Chiness Cabbage",
-    "image": "images/chinese-cabbage.jpg",
+    "image": "images/chinese_cabbage.jpg",
     "price": 218,
     "discount": 0,
     "star": 4,
@@ -262,7 +262,7 @@
   {
     "uid": 27,
     "name": "Green Chili Pepper",
-    "image": "images/green-chili-pepper.jpg",
+    "image": "images/green_chili_pepper.jpg",
     "price": 189,
     "discount": 0.15,
     "star": 4,
@@ -282,7 +282,7 @@
   {
     "uid": 29,
     "name": "Pak Choi",
-    "image": "images/pak-choi.jpg",
+    "image": "images/pak_choi.jpg",
     "price": 142,
     "discount": 0.1,
     "star": 4,
@@ -292,7 +292,7 @@
       {
     "uid": 30,
     "name": "Cherry Tomato",
-    "image": "images/cherry-tomato.jpg",
+    "image": "images/cherry_tomato.jpg",
     "price": 228,
     "discount": 0.1,
     "star": 3,
@@ -322,7 +322,7 @@
   {
     "uid": 33,
     "name": "Sweet Potato",
-    "image": "images/sweet-potato.jpg",
+    "image": "images/sweet_potato.jpg",
     "price": 186,
     "discount": 0.17,
     "star": 4,
