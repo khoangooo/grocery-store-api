@@ -638,7 +638,11 @@ app.post("/sign_up", uploadAvatar.single("image"), async function (req, res) {
     return;
   }
 
-  res.send("success");
+  res.status(200).send({
+    status: 200,
+    message: "success",
+    data: null,
+  });
 });
 
 app.get("/users/:id", async function (req, res) {
