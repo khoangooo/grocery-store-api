@@ -100,11 +100,11 @@ app.get("/products", async function (req, res, next) {
   }
   if (priceFrom !== undefined && priceFrom !== "") {
     // params.push({ price: { $gte: parseInt(priceFrom, 10) } });
-    params.push({ "$expr": { $gte: [{ $multiply: ["$price", { $subtract: [1, "$discount"] }] }, parseInt(priceFrom, 10)] } });
+    params.push({  "$expr": { $gte: [{$multiply: ["$price", { $subtract: [1, "$discount"] }]}, parseInt(priceFrom, 10)] } });
   }
   if (priceTo !== undefined && priceTo !== "") {
     // params.push({ price: { $lte: parseInt(priceTo, 10) } });
-    params.push({ "$expr": { $lte: [{ $multiply: ["$price", { $subtract: [1, "$discount"] }] }, parseInt(priceTo, 10)] } });
+    params.push({  "$expr": { $lte: [{$multiply: ["$price", { $subtract: [1, "$discount"] }]}, parseInt(priceTo, 10)] } });
   }
   if (req.query.sort !== undefined && req.query.sort !== "") {
     if (req.query.sort === "price") sort = "discounted_price";
@@ -307,11 +307,7 @@ app.get("/products/:id", async function (req, res) {
     });
     return;
   }
-  res.send({
-    status: 200,
-    message: "success",
-    data
-  });
+  res.send(data);
 });
 
 app.post("/products", uploadProduct.single("image"), async function (req, res) {
@@ -417,11 +413,8 @@ app.get("/categories/:id", async function (req, res) {
     });
     return;
   }
-  res.send({
-    status: 200,
-    message: "success",
-    data
-  });
+
+  res.send(data);
 });
 
 app.post("/categories", body("name").contains(), async function (req, res) {
@@ -814,7 +807,7 @@ app.post("/cart", async function (req, res) {
     return;
   }
 
-  res.status(200).send({
+  res.send({
     status: 200,
     message: "success",
     data: null,
