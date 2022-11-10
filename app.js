@@ -100,11 +100,11 @@ app.get("/products", async function (req, res, next) {
   }
   if (priceFrom !== undefined && priceFrom !== "") {
     // params.push({ price: { $gte: parseInt(priceFrom, 10) } });
-    params.push({  "$expr": { $gte: [{$multiply: ["$price", { $subtract: [1, "$discount"] }]}, parseInt(priceFrom, 10)] } });
+    params.push({ "$expr": { $gte: [{ $multiply: ["$price", { $subtract: [1, "$discount"] }] }, parseInt(priceFrom, 10)] } });
   }
   if (priceTo !== undefined && priceTo !== "") {
     // params.push({ price: { $lte: parseInt(priceTo, 10) } });
-    params.push({  "$expr": { $lte: [{$multiply: ["$price", { $subtract: [1, "$discount"] }]}, parseInt(priceTo, 10)] } });
+    params.push({ "$expr": { $lte: [{ $multiply: ["$price", { $subtract: [1, "$discount"] }] }, parseInt(priceTo, 10)] } });
   }
   if (req.query.sort !== undefined && req.query.sort !== "") {
     if (req.query.sort === "price") sort = "discounted_price";
@@ -229,7 +229,7 @@ app.get("/products", async function (req, res, next) {
 
   res.send({
     status: 200,
-    message: "Success",
+    message: "success",
     data: {
       data: data,
       total: total,
@@ -307,7 +307,11 @@ app.get("/products/:id", async function (req, res) {
     });
     return;
   }
-  res.send(data);
+  res.send({
+    status: 200,
+    message: "success",
+    data
+  });
 });
 
 app.post("/products", uploadProduct.single("image"), async function (req, res) {
@@ -396,7 +400,7 @@ app.get("/categories/:id", async function (req, res) {
   let query = {};
   let params = [];
   if (id !== undefined && id !== "") {
-    params.push({ id: parseInt(id, 10) });
+    params.push({ kind: parseInt(id, 10) });
   }
   if (params.length > 0) query = { $and: params };
   const client = await mongoClient.connect(url);
@@ -413,8 +417,11 @@ app.get("/categories/:id", async function (req, res) {
     });
     return;
   }
-
-  res.send(data);
+  res.send({
+    status: 200,
+    message: "success",
+    data
+  });
 });
 
 app.post("/categories", body("name").contains(), async function (req, res) {
@@ -638,7 +645,7 @@ app.post("/sign_up", uploadAvatar.single("image"), async function (req, res) {
     return;
   }
 
-  res.status(200).send({
+  res.send({
     status: 200,
     message: "success",
     data: null,
@@ -807,7 +814,11 @@ app.post("/cart", async function (req, res) {
     return;
   }
 
-  res.send("success");
+  res.status(200).send({
+    status: 200,
+    message: "success",
+    data: null,
+  });
 });
 
 var server = app.listen(8081, function () {
