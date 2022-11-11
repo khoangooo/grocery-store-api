@@ -92,6 +92,9 @@ app.get("/products", async function (req, res, next) {
       ],
     });
   }
+  if (kind !== undefined && kind !== "") {
+    params.push({ kind: parseInt(req.query.kind)  });
+  }
   if (star !== undefined && star !== "") {
     params.push({ star: parseInt(req.query.star, 10) });
   }
